@@ -1,8 +1,10 @@
 # syed-fingerprint-forgravity-forms
 
 === Plugin Name ===
-Contributors: (Syed Naeem)
- 
+Contributors: (Syed Naeem )
+
+=== Hire Developer:  === 
+https://www.upwork.com/freelancers/~012db1b3731c7e9808
  
 Requires Wordpress at least: 3.0.1
 Required 
