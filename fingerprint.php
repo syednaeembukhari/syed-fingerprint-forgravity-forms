@@ -2,17 +2,17 @@
 
 /**
  *
- * @link              https://www.upwork.com/freelancers/~012db1b3731c7e9808
+ * @link              https://github.com/syednaeembukhari/syed-fingerprint-forgravity-forms
  * @since             1.0.0
  * @package           Syed Fingerprint
  *
  * @wordpress-plugin
  * Plugin Name:       Syed Fingerprint for Gravtiy Forms
- * Plugin URI:        https://github.com/syednaeembukhari
+ * Plugin URI:        https://github.com/syednaeembukhari/syed-fingerprint-forgravity-forms
  * Description:       This plugin will inlcude and store browser Fingerprints  in  gravityforms , On activation of the plugin  it will add a new field in the advance fields area of the   form screen from there  you can drag/add Fingerprint filed in the form to store data.
  * Version:           1.0.0
  * Author:            Syed Naeem 
- * Author URI:        https://github.com/syednaeembukhari
+ * Author URI:        https://www.upwork.com/freelancers/~012db1b3731c7e9808
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       syedfingerprintforgf

@@ -1,15 +1,20 @@
 # syed-fingerprint-forgravity-forms
 
 === Plugin Name ===
-Contributors: (Syed Naeem )
+Syed Fingerprint
 
 === Hire Developer:  === 
 https://www.upwork.com/freelancers/~012db1b3731c7e9808
  
-Requires Wordpress at least: 3.0.1
-Required 
+Requires 
+
+Wordpress at least: 3.0.1
+ 
 1- Gravity Forms Version 2.5.158 or Heigher   
 2- Gravity Forms Webhooks Add-On Version 1.5 or Heigher
+
+=== License:  === 
+
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
